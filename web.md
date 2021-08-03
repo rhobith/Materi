@@ -19,3 +19,29 @@ Selanjutnya *JavaScript*, berfungsi agar website lebih interaktif dan menarik.
 Back-end adalah bagian belakang website yang mengelola website seperti update, autentikasi, dan lain lain.
 
 ------------------------------------------------------------------------------------------------------------------
+
+Ketika kita mengetik suatu url pada browser seperti chrome atau mozilla, permintaan DNS akan dibuat. DNS jika disederhanakan seperti buku telepon yang besar berisi *IP address* suatu website.
+
+## HTTP
+
+HTTP adalah protokol jaringan aplikasi yang dikembangkan untuk membantu proses transfer antar komputer. Atau sederhananya adalah digunakan untuk berkomunikasi dengan server.
+
+Terdapat banyak request method pada HTTP untuk meminta request kepada server. Akan saya sebutkan request method yang sering muncul dan dipakai, yaitu :
+
+- GET --> Untuk menampilkan website
+- POST -> Untuk mengirim data
+- HEAD --> Untuk menampilkan header
+  
+Kita bisa menggunakan command curl pada terminal linux untuk request pada server. Curl adalah perintah pada terminal untuk mengirim atau mendapatkan data dari url yang kita minta.
+
+## Cookie
+
+Cookie adalah sebuah data kecil yang disimpan kembali pada browser. Contohnya, ketika anda login disuatu website, akun kita bisa tersimpan. Suatu saat ketika ingin login kembali, otomatis akan langsung login karena data anda sudah tersimpan disitu.
+
+## Database
+
+Database adalah sekumpulan informasi atau data yang terorganisir dan terstruktur yang disimpan dalam sistem komputer. Informasi atau data tersebut kemudian mudah untuk dikelola, diakses, dan dikendalikan. Untuk mengelolanya, biasanya menggunakan SQL (Structured Query Language).
+
+## SQL Injection
+
+Sql adalah sebuah bahasa untuk mengelola sebuah database. Tetapi, banyak sekali yang menggunakan rdbms mysql. RDBMS adalah program atau bahasa yang mengelola database. Pada sql terdapat kelemahan yaitu dapat mengakses data jika ada celah pada website. Perintah-perintah yang dipakai adalah DML (Data Manipulation Language). DML adalah query untuk memanipulasi data.
