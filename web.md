@@ -28,9 +28,8 @@ HTTP adalah protokol jaringan aplikasi yang dikembangkan untuk membantu proses t
 
 Terdapat banyak request method pada HTTP untuk meminta request kepada server. Akan saya sebutkan request method yang sering muncul dan dipakai, yaitu :
 
-- GET --> Untuk menampilkan website
-- POST -> Untuk mengirim data
-- HEAD --> Untuk menampilkan header
+- GET --> Untuk merequest data dan menampilkan spesifikasi website dalam bentuk html
+- POST -> Untuk merequest atau mengirim data untuk mengubah suatu data pada website
   
 Kita bisa menggunakan command curl pada terminal linux untuk request pada server. Curl adalah perintah pada terminal untuk mengirim atau mendapatkan data dari url yang kita minta.
 
