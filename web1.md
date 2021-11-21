@@ -35,6 +35,8 @@ Website without CSS :
 Website with CSS :
 ![CSS](Screenshot%20(1112).png)
 
+![SintaksCSS](sintaks-css.png)
+
 Dalam penempatan kode CSS, dibagi menjadi 3, yaitu :
 
 1. Inline CSS
@@ -43,10 +45,12 @@ Dalam penempatan kode CSS, dibagi menjadi 3, yaitu :
    Kode diatas adalah contoh penempatan CSS di dalam tag HTML. 
 
 2. Internal CSS
+ 
    ![InternalCode](Screenshot%20(1164).png)
    Kode diatas adalah contoh penempatan CSS di bagian head.
 
 3. Eksternal CSS
+   
    ![EksternalCode](Screenshot%20(1165).png)
    ![eksternalCode](Screenshot%20(1168).png)
    Diatas adalah contoh kode CSS yang ditempatkan pada file yang berbeda. Kemudian dimasukkan ke dalam HTML dengan cara seperti pada gambar dua.
