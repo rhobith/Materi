@@ -67,7 +67,7 @@ Sama seperti CSS, terdapat beberapa cara penempatan kode javascript, yaitu :
 
 1. Menulis javascript pada tag script
    
-   ![scriptHead](Screenshot%20(1172).png)
+   ![scriptHead](Screenshot%20(1168).png)
    ![scriptBody](Screenshot%20(1173).png)
 
    Tag script bisa ditempatkan pada head maupun body. Namun, penempatan lebih baik pada body dengan alasan pengeksekusiannya lebih cepat(sumber: petanikode.com).
