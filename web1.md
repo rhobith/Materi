@@ -35,6 +35,8 @@ Website without CSS :
 Website with CSS :
 ![CSS](Screenshot%20(1112).png)
 
+Dibawah ini adalah struktur dasar dari CSS :
+
 ![SintaksCSS](sintaks-css.png)
 
 Dalam penempatan kode CSS, dibagi menjadi 3, yaitu :
