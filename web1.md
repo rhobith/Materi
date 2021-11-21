@@ -54,7 +54,7 @@ Dalam penempatan kode CSS, dibagi menjadi 3, yaitu :
 3. Eksternal CSS
    
    ![EksternalCode](Screenshot%20(1165).png)
-   ![eksternalCode](Screenshot%20(1168).png)
+   ![eksternalCode](Screenshot%20(1175).png)
    Diatas adalah contoh kode CSS yang ditempatkan pada file yang berbeda. Kemudian dimasukkan ke dalam HTML dengan cara seperti pada gambar dua.
 
 ---
